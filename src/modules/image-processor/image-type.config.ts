@@ -3,8 +3,11 @@ export enum AcceptedImageFormats {
   gif = 'gif',
   heif = 'heif',
   jpeg = 'jpeg',
+  jpg = 'jpg',
+  jp2 = 'jp2',
   png = 'png',
   svg = 'svg',
+  tiff = 'tiff',
   tif = 'tif',
   webp = 'webp',
 }

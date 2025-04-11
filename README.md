@@ -44,7 +44,6 @@ More image types can be added in the [Image Type Config File](./src/modules/imag
 
 ### Recommended Improvements
 - API unit and integration testing
-- 
 
 ### Author
 Chibuike Umechukwu
